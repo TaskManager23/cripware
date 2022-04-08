@@ -1,0 +1,78 @@
+GAME NAME                GAME ID       STATUS         MOUSE TYPES    RAY METHOD       MUST INCLUDE
+
+Aimblox                  6808416928    WORKING        target, hit    raycast          ...
+Area 47                  1581113210    WORKING        target, hit    raycast          character
+Arsenal                  286090429     WORKING        target, hit    withignorelist   character
+Assassin                 379614936     WORKING        target, hit    withignorelist   character
+Attrition                882690287     WORKING        target, hit    withignorelist   character
+Anarchy                  5872075530    WORKING        target, hit    raycast          character
+Base Battles             5326405001    WORKING        target, hit    withignorelist   character
+Battleground             7016851744    WORKING        target, hit    raycast          character
+Blackhawk Rescue         2916899287    WORKING        target, hit    withignorelist   character
+Blacklands               3254838662    WORKING        target, hit    withignorelist   character
+Bullet Hell              1238482747    WORKING        target, hit    withignorelist   character
+Caliber                  6158075274    WORKING        target, hit    raycast          character
+Counter Blox             301549746     WORKING        target, hit    withignorelist   character
+D-DAY                    901793731     WORKING        target, hit    withignorelist   character
+Da Hood                  2788229376    WORKING        target, hit    raycast          character
+Deadline                 3837841034    WORKING        target, hit    raycast          character
+Framed!                  29812337      WORKING        target, hit    raycast          character
+Grand Crossing           885450884     WORKING        target, hit    raycast          character
+Infection                4531385883    WORKING        target, hit    withignorelist   character
+KAT                      621129760     WORKING        target, hit    withignorelist   character
+Military Tycoon          7180042682    WORKING        target, hit    raycast          character
+NO-SCOPE ARCADE          6407649031    WORKING        target, hit    raycast          character
+Overheat                 3032856162    WORKING        target, hit    withignorelist   character
+POLYGUNS                 388599755     WORKING        target, hit    findpartonray    character
+Pistol 1v1               6722284015    WORKING        target, hit    raycast          character
+Pistol 1v1 Classic       4894544370    WORKING        target, hit    withignorelist   character
+Prison Life              155615604     WORKING        target, hit    findpartonray    character
+Prison Life 2            5168998837    WORKING        target, hit    withignorelist   character
+Rogue                    2045431354    WORKING        target, hit    withignorelist   character
+Randomizer               5307215810    WORKING        target, hit    withignorelist   character
+SCP: Devolved            4720397302    WORKING        target, hit    withignorelist   character
+SLUMS                    5028171790    WORKING        target, hit    withignorelist   character
+SMG BattleGrounds        4863963619    WORKING        target, hit    withignorelist   character
+Star Wars: Battleground  6937208251    WORKING        target, hit    raycast          character
+The Underground War      3829055572    WORKING        target, hit    withignorelist   character
+Trench War               6654918151    WORKING        target, hit    raycast          character
+Trench Warfare           6568920428    WORKING        target, hit    raycast          character
+Typical Colors 2         328028363     MOST GUNS      target, hit    raycast          character
+Typical Colors 2         328028363     HUNTSMAN BOW   target, hit    withignorelist   character
+Teen Titans Battleground 3082002798    WORKING        target, hit    withignorelist   ...
+Unit 1968                746820961     WORKING        target, hit    withignorelist   character
+Unit: Classified         4292776423    WORKING        target, hit    withignorelist   character
+Weaponry                 3297964905    WORKING        target, hit    withignorelist   character
+Zeppelin Wars            5024793931    WORKING        target, hit    withignorelist   character
+th3ltgrounds             2996067865    WORKING        target, hit    withignorelist   character
+ 
+Elemental Battlegrounds  566399244     BUGGY          target, hit    any              character
+Hellreaver Arena         5523314295    BUGGY          target, hit    withignorelist   character
+Hostile Skies            1886551928    BUGGY          target, hit    withignorelist   camera
+QCLASH                   2029250188    BUGGY          target, hit    withignorelist   character
+Strucid                  2377868063    BUGGY          target, hit    raycast          character
+Wild West                2317712696    BUGGY          target, hit    withignorelist   character
+town                     4991214437    BUGGY          target, hit    withignorelist   ...
+
+Base Wars                18164449      SEMI DETECTED  ...            raycast          ...
+
+AceOfSpadez              2555870920    NOT WORKING    ...            none             ...
+BIG Paintball            3527629287    NOT WORKING    ...            none             ...
+Bad Business             3233893879    NOT WORKING    ...            none             ...
+BedWars (but why)        6872265039    NOT WORKING    ...            none             ...
+Blood & Iron             9528010       DETECTED       target, hit    withignorelist   character
+Energy Assault           6172932937    NOT WORKING    target, hit    withignorelist   character
+Entry Point              740581508     NOT WORKING    ...            none             ...
+Fireteam Remastered      633284182     NOT WORKING    ...            none             ...
+Impulse Remastered       3204503125    NOT WORKING    ...            none             ...
+MiscGunTest              6079480635    NOT WORKING    ...            none             ...
+Phantom Forces           292439477     NOT WORKING    ...            none             ...
+Polybattle               4716045691    DETECTED       target, hit    withignorelist   character
+RECOIL                   4651779470    NOT WORKING    ...            none             ...
+SCP rBreach              2622527242    NOT WORKING    ...            none             ...
+SHELLSHOCK               1295127057    NOT WORKING    ...            none             ...
+SHOOT OUT                4738545896    NOT WORKING    ...            none             ...
+State Of Anarchy         2000062521    NOT WORKING    ...            none             ...
+Traitor Town             255236425     DETECTED       ...            none             ...
+Noobs v Zombies: Realish 527271999     DETECTED       ...            none             ...
+Jailbird                 6055959032    CRASHES        target, hit    withignorelist             character
