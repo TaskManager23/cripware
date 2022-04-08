@@ -38,7 +38,7 @@ end
 
 local menu
 do
-    local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zapatron/Cripware/main/cw_menu.lua"))()
+    local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TaskManager23/cripware/main/uilibrary.lua"))()
 
     menu = library.new([[universal <font color="rgb(78, 93, 234)">v1</font>]], "nemv2\\")
     local tabs = {
