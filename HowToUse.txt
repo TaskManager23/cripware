@@ -1,0 +1,5 @@
+Supported Executors = Any Paid Exploit(probably) Fluxus,Trigon,Krnl
+execute universal.lua on the game u want to use cripware in
+check the methods.txt for aimbot methods ( only if ur gonna use aimbot/silent aim / ragebot )
+check if its ffa type game or force field by using esp ( enable enemy esp first if it doesnt work enable team esp and if it works then the game is ffa based )
+choose a check type ( forcefield check / free for all )
